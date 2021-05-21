@@ -19,7 +19,7 @@ We will simplify the model's potential predictions by grouping the wine ratings 
 | 96-100       | excellent       |
 
 # Model's Accuracy
-Let's face it -- no one will die if they drink a glass of wine that is rated inaccurately. If our model ends up predicting some bottles of wine to rate below their actual rating, it will be unfortunate. The consumer may notice and be unhappy. However, it's possible that the consumer doesn't notice or care and drinks the wine anyway.  Therefore, we'd like to achieve a 75% accuracy score for our model.  
+Let's face it -- no one will die if they drink a glass of wine that is rated inaccurately. If our model ends up predicting some bottles of wine to rate below their actual rating, it will be unfortunate. The consumer may notice and be unhappy. However, it's possible that the consumer will not notice or care and drinks the wine anyway.  Therefore, we'd like to achieve a *75% accuracy score* for our model.  
 
 # How does our model work?
 Please see MLModel_flowchart.png for a flowchart of the process for our machine learning model.
