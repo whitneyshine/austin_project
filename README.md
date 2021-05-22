@@ -6,7 +6,7 @@
 * [GitHub](#GitHub)<br>
     * [Communication Protocols](#Communication-Protocols)<br>
 * [Machine Learning Model](#Machine-Learning-Model)<br>
-    * [Question we would like to answer with our machine learning model](#Question-we would-like-to-answer-with-our-machine-learning-model)<br>
+    * [Question we would like to answer with our machine learning model](#Question-we-would-like-to-answer-with-our-machine-learning-model)<br>
     * [Machine Learning Model](#Machine-Learning-Model)<br>
     * [Output Label](#Output-Label)<br>
     * [Model's Accuracy](#Model-Accuracy)<br>
