@@ -1,4 +1,8 @@
-# ![wine_ut](wine_ut.png)<br><br> 
+<div align="center">
+  
+  # ![wine_ut](wine_ut.png)<br><br> 
+  
+</div>
 <div align="center">
 
 # Final Project - Wine Ratings
