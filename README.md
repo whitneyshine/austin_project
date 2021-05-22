@@ -21,7 +21,18 @@ For this repository we have created a machine learning model that can predict th
 ![wine_row](wine_row.png)
 
 ## GitHub
-#### <ins><b>Communication Protocols</ins></b><br> ####
+#### <ins><b>Communication Protocols</ins></b><br><br> ####
+
+![communication_apps](communication_apps.png)
+
+For our group communication protocols, we will be using the following modes of communication:<br>
+* Phone<br>
+* Text<br>
+* Zoom<br>
+* Slack<br>
+* Email<br><br>
+
+![wine_communication](wine_communication.png)
 
 ## Machine Learning Model
 
@@ -36,8 +47,12 @@ Let's face it -- no one will die if they drink a glass of wine that is rated ina
 #### <ins><b>How the model works</ins></b><br> ####
 Please see MLModel_flowchart.png for a flowchart of the process for our machine learning model.<br><br>
 
+![wine_cellar](wine_cellar.png)<br><br>
 
 
-## Database
+
+## Database<br><br>
+
+![wine_database](wine_database.png)
 
 
