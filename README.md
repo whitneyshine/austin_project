@@ -1,4 +1,8 @@
-# ![wine_ut](wine_ut.png)              Final Project - Wine Ratings                           
+# ![wine_ut](wine_ut.png)<br><br> 
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+#Final Project - Wine Ratings                           
 
 ## Table of contents
 * [Presentation](#Presentation)<br>
