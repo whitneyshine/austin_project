@@ -2,9 +2,9 @@
 
 ## Table of contents
 * [Presentation](#Presentation)<br>
-    [Predictive Wine Ratings](PredicitiveWineRatings)<br>
+    Predictive Wine Ratings<br>
 * [GitHub](#GitHub)<br>
-    [Communication Protocols](CommunicationProtocols)<br>
+    Communication Protocols<br>
 * [Machine Learning Model](#MachineLearningModel)
 * [Database](#Database)
 
