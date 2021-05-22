@@ -1,9 +1,10 @@
 # austin_project
 
 ## Table of contents
-* [Presentation](#Presentation)
-    [Predictive Wine Ratings](PredicitiveWineRatings)
-* [GitHub](#GitHub)
+* [Presentation](#Presentation)<br>
+    [Predictive Wine Ratings](PredicitiveWineRatings)<br>
+* [GitHub](#GitHub)<br>
+    [Communication Protocols](CommunicationProtocols)<br>
 * [Machine Learning Model](#MachineLearningModel)
 * [Database](#Database)
 
@@ -26,6 +27,7 @@ Let's face it -- no one will die if they drink a glass of wine that is rated ina
 Please see MLModel_flowchart.png for a flowchart of the process for our machine learning model.<br><br>
 
 ## GitHub
+<ins><b>Communication Protocols</ins></b><br>
 
 ## Database
 
