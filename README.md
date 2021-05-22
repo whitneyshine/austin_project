@@ -1,6 +1,9 @@
 # ![wine_ut](wine_ut.png)<br><br> 
+<div align="center">
 
-# Final Project - Wine Ratings                           
+# Final Project - Wine Ratings
+</div>
+                          
 
 ## Table of contents
 * [Presentation](#Presentation)<br>
