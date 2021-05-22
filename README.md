@@ -23,7 +23,7 @@ For this repository we have created a machine learning model that can predict th
 
 ## Machine Learning Model
 
-<ins>**Question we'd like to answer with our machine learning model**</ins><br>
+#### <ins><b>Question we'd like to answer with our machine learning model ####</ins></b><br>
 Can we accurately predict a wine's rating based on several factors such as price, grape variety, and region of origin?<br><br>
 <ins>**Machine Learning Model**</ins><br>
 We chose a random forest model since we need a supervised learning model. Random forest algorithms are great to use for classification or regression problems and typically produce a higher degree of accuracy. The model does a good job to avoid overfitting and it can efficiently handle large datasets like ours.<br><br>
