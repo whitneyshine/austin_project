@@ -6,12 +6,20 @@
 * [GitHub](#GitHub)<br>
     Communication Protocols<br>
 * [Machine Learning Model](#MachineLearningModel)
+    Question we'd like to answer with our machine learning model<br>
+    Machine Learning Model<br>
+    Output Label<br>
+    Model's Accuracy<br>
+    How does our model work?<br>
 * [Database](#Database)
 
 ## Presentation
 
 <ins><b>Predictive Wine Ratings</ins></b><br>
 For this repository we have created a machine learning model that can predict the rating of wine based on various inputs such as price, origin, and variety. This topic was selected because it offers descriptive features that the model can learn from and was also just interesting to us as a team. This data set was posted on Kaggle and compiled by Wine Magazine. We hope to be able to plug variables into the model and have it output a predicted rating of a given wine.<br><br>
+
+## GitHub
+<ins><b>Communication Protocols</ins></b><br>
 
 ## Machine Learning Model
 
@@ -26,8 +34,7 @@ Let's face it -- no one will die if they drink a glass of wine that is rated ina
 <ins>**How does our model work?**</ins><br>
 Please see MLModel_flowchart.png for a flowchart of the process for our machine learning model.<br><br>
 
-## GitHub
-<ins><b>Communication Protocols</ins></b><br>
+
 
 ## Database
 
