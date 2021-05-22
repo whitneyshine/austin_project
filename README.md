@@ -1,5 +1,4 @@
-![wine_ut](wine_ut.png) 
-# austin_project 
+# ![wine_ut](wine_ut.png) austin_project 
 
 ## Table of contents
 * [Presentation](#Presentation)<br>
