@@ -37,7 +37,9 @@ For this repository we have created a machine learning model that can predict th
 ## GitHub
 #### <ins><b>Communication Protocols</ins></b><br><br> ####
 <div align="center">
+  
 ![communication_apps](communication_apps.png)
+
  </div>
 <div align="center">
 
@@ -48,7 +50,9 @@ For our group communication protocols, we will be using the following modes of c
 * Slack<br>
 * Email<br><br>
 <div align="center">
+  
 ![wine_communication](wine_communication.png)
+
 </div>
 <div align="center">
 
@@ -65,14 +69,18 @@ Let's face it -- no one will die if they drink a glass of wine that is rated ina
 #### <ins><b>How the model works</ins></b><br> ####
 Please see MLModel_flowchart.png for a flowchart of the process for our machine learning model.<br><br>
 <div align="center">
+  
 ![wine_cellar](wine_cellar.png)<br><br>
+
 </div>
 <div align="center">
 
 
 ## Database<br><br>
 <div align="center">
+  
 ![wine_database](wine_database.png)
+
 </div>
 <div align="center">
 
