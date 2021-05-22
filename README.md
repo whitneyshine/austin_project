@@ -6,11 +6,11 @@
 * [GitHub](#GitHub)<br>
     * [Communication Protocols](#Communication-Protocols)<br>
 * [Machine Learning Model](#Machine-Learning-Model)<br>
-    * [Question we'd like to answer with our machine learning model](#Question-we'd-like-to-answer-with-our-machine-learning-model)<br>
+    * [Question we'd like to answer with our machine learning model](#Question-we'd-like-to-answer-with-our-machine-learning-model-)<br>
     * [Machine Learning Model](#Machine-Learning-Model)<br>
-    * [Output Label](#Output-Label)<br>
+    * [Output Label](#Output-Label-)<br>
     * [Model's Accuracy](#Model's-Accuracy)<br>
-    * [How does our model work?](#How-does-our-model-work-?)<br>
+    * [How does our model work?](#How-does-our-model-work-?-)<br>
 * [Database](#Database)
 
 ## Presentation
