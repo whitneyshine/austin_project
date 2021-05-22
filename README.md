@@ -9,7 +9,7 @@
     * [Question we would like to answer with our machine learning model](#Question-we-would-like-to-answer-with-our-machine-learning-model)<br>
     * [Machine Learning Model](#Machine-Learning-Model)<br>
     * [Output Label](#Output-Label)<br>
-    * [Model's Accuracy](#Model-Accuracy)<br>
+    * [Model Accuracy](#Model-Accuracy)<br>
     * [How the model works](#How-the-model-works)<br>
 * [Database](#Database)
 
