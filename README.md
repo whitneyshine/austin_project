@@ -9,7 +9,7 @@
 </div>
                           
 
-## Table of contents
+## Table of Contents
 * [Presentation](#Presentation)<br>
     * [Predictive Wine Ratings](#Predictive-Wine-Ratings)<br>
 * [GitHub](#GitHub)<br>
