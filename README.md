@@ -7,10 +7,10 @@
     * [Communication Protocols](#CommunicationProtocols)<br>
 * [Machine Learning Model](#MachineLearningModel)<br>
     * [Question we'd like to answer with our machine learning model](#Questionwe'dliketoanswerwithourmachinelearningmodel)<br>
-    Machine Learning Model<br>
-    Output Label<br>
-    Model's Accuracy<br>
-    How does our model work?<br>
+    * [Machine Learning Model](#MachineLearningModel)<br>
+    * [Output Label](#OutputLabel)<br>
+    * [Model's Accuracy](#Model'sAccuracy)<br>
+    * [How does our model work?](#Howdoesourmodelwork?)<br>
 * [Database](#Database)
 
 ## Presentation
