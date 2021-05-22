@@ -1,4 +1,4 @@
-# ![wine_ut](wine_ut.png)              austin_project                         ![wine_ratings](wine_ratings.png)        
+# ![wine_ut](wine_ut.png)              Wine Ratings                           
 
 ## Table of contents
 * [Presentation](#Presentation)<br>
