@@ -32,7 +32,7 @@ For this repository we have created a machine learning model that can predict th
   ![wine_row](wine_row.png)
   
 </div>
-<div align="center">
+
 
 ## GitHub
 #### <ins><b>Communication Protocols</ins></b><br><br> ####
@@ -41,7 +41,7 @@ For this repository we have created a machine learning model that can predict th
 ![communication_apps](communication_apps.png)
 
  </div>
-<div align="center">
+
 
 For our group communication protocols, we will be using the following modes of communication:<br>
 * Phone<br>
@@ -54,7 +54,7 @@ For our group communication protocols, we will be using the following modes of c
 ![wine_communication](wine_communication.png)
 
 </div>
-<div align="center">
+
 
 ## Machine Learning Model
 
@@ -73,7 +73,7 @@ Please see MLModel_flowchart.png for a flowchart of the process for our machine 
 ![wine_cellar](wine_cellar.png)<br><br>
 
 </div>
-<div align="center">
+
 
 
 ## Database<br><br>
@@ -82,5 +82,5 @@ Please see MLModel_flowchart.png for a flowchart of the process for our machine 
 ![wine_database](wine_database.png)
 
 </div>
-<div align="center">
+
 
