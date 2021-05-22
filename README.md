@@ -5,7 +5,7 @@
     Predictive Wine Ratings<br>
 * [GitHub](#GitHub)<br>
     Communication Protocols<br>
-* [Machine Learning Model](#MachineLearningModel)
+* [Machine Learning Model](#MachineLearningModel)<br>
     Question we'd like to answer with our machine learning model<br>
     Machine Learning Model<br>
     Output Label<br>
