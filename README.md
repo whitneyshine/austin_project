@@ -27,12 +27,17 @@
 #### <ins><b>Predictive Wine Ratings</ins></b><br> ####
 For this repository we have created a machine learning model that can predict the rating of wine based on various inputs such as price, origin, and variety. This topic was selected because it offers descriptive features that the model can learn from and was also just interesting to us as a team. This data set was posted on Kaggle and compiled by Wine Magazine. We hope to be able to plug variables into the model and have it output a predicted rating of a given wine.<br><br>
 
+<div align="center">
 ![wine_row](wine_row.png)
+</div>
+<div align="center">
 
 ## GitHub
 #### <ins><b>Communication Protocols</ins></b><br><br> ####
-
+<div align="center">
 ![communication_apps](communication_apps.png)
+ </div>
+<div align="center">
 
 For our group communication protocols, we will be using the following modes of communication:<br>
 * Phone<br>
@@ -40,8 +45,10 @@ For our group communication protocols, we will be using the following modes of c
 * Zoom<br>
 * Slack<br>
 * Email<br><br>
-
+<div align="center">
 ![wine_communication](wine_communication.png)
+</div>
+<div align="center">
 
 ## Machine Learning Model
 
@@ -55,13 +62,15 @@ Our machine learning model's output label is a wine rating -- a continuous value
 Let's face it -- no one will die if they drink a glass of wine that is rated inaccurately. If our model predicts some vintages to rate below their actual rating, it will be unfortunate. The consumer may notice and be unhappy. However, it's possible that the consumer will not notice and drink the wine anyway.<br><br> 
 #### <ins><b>How the model works</ins></b><br> ####
 Please see MLModel_flowchart.png for a flowchart of the process for our machine learning model.<br><br>
-
+<div align="center">
 ![wine_cellar](wine_cellar.png)<br><br>
-
+</div>
+<div align="center">
 
 
 ## Database<br><br>
-
+<div align="center">
 ![wine_database](wine_database.png)
-
+</div>
+<div align="center">
 
