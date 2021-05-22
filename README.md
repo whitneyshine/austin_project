@@ -10,7 +10,7 @@
     * [Machine Learning Model](#Machine-Learning-Model)<br>
     * [Output Label](#Output-Label)<br>
     * [Model's Accuracy](#Model's-Accuracy)<br>
-    * [How does our model work?](#How-does-our-model-work?)<br>
+    * [How does our model work?](#How-does-our-model-work-?)<br>
 * [Database](#Database)
 
 ## Presentation
