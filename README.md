@@ -1,5 +1,11 @@
 # austin_project
 
+## Table of contents
+* [Presentation](#Presentation)
+* [Machine Learning Model](#Machine Learning Model)
+* [GitHub](#GitHub)
+* [Database](#Database)
+
 ## Presentation
 
 <ins><b>Predictive Wine Ratings</ins></b><br>
@@ -17,5 +23,9 @@ Our machine learning model's output label is a wine rating -- a continuous value
 Let's face it -- no one will die if they drink a glass of wine that is rated inaccurately. If our model predicts some vintages to rate below their actual rating, it will be unfortunate. The consumer may notice and be unhappy. However, it's possible that the consumer will not notice and drink the wine anyway.<br><br> 
 <ins>**How does our model work?**</ins><br>
 Please see MLModel_flowchart.png for a flowchart of the process for our machine learning model.<br><br>
+
+## GitHub
+
+## Database
 
 
