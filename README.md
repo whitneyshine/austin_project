@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [Presentation](#Presentation)
-* [Machine Learning Model](#Machine Learning Model)
+* [Machine Learning Model](#MachineLearningModel)
 * [GitHub](#GitHub)
 * [Database](#Database)
 
