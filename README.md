@@ -1,4 +1,4 @@
-# ![wine_ut](wine_ut.png)              Wine Ratings                           
+# ![wine_ut](wine_ut.png)              Final Project - Wine Ratings                           
 
 ## Table of contents
 * [Presentation](#Presentation)<br>
