@@ -4,7 +4,7 @@
 * [Presentation](#Presentation)<br>
     Predictive Wine Ratings<br>
 * [GitHub](#GitHub)<br>
-    [Communication Protocols](#CommunicationProtocols)<br>
+    * [Communication Protocols](#CommunicationProtocols)<br>
 * [Machine Learning Model](#MachineLearningModel)<br>
     Question we'd like to answer with our machine learning model<br>
     Machine Learning Model<br>
