@@ -2,8 +2,8 @@
 
 ## Table of contents
 * [Presentation](#Presentation)
-* [Machine Learning Model](#MachineLearningModel)
 * [GitHub](#GitHub)
+* [Machine Learning Model](#MachineLearningModel)
 * [Database](#Database)
 
 ## Presentation
