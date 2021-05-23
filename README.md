@@ -38,7 +38,7 @@ For this repository we have created a machine learning model that can predict th
   
 </div>
 
-#### <ins><b>Technologies Used</ins></b><br> ####
+####* <ins><b>Technologies Used</ins></b><br> ####
 
 ##### <b>Data Cleaning and Analysis</b><br> #####
 Pandas will be used to clean and prepare our data for analysis. All members of the group are familiar with Pandas so this came as an easy decision and should allow the analysis to run smoothly.<br>
