@@ -40,7 +40,7 @@ For this repository we have created a machine learning model that can predict th
 
 #### <ins><b>Technologies Used</ins></b><br> ####
 
-##### <b>Data Cleaning and Analysis</b><br> #####
+* ##### <b>Data Cleaning and Analysis</b><br> #####
 * Pandas will be used to clean and prepare our data for analysis. All members of the group are familiar with Pandas so this came as an easy decision and should allow the analysis to run smoothly.<br>
 ##### <b>Database Storage</b><br> #####
 * PostgresSQL will be used for database storage. We will also be using a Flask template to display the data. Again, this decision was made due to familiarity.<br>
