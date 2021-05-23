@@ -38,16 +38,16 @@ For this repository we have created a machine learning model that can predict th
   
 </div>
 
-####* <ins><b>Technologies Used</ins></b><br> ####
+#### <ins><b>Technologies Used</ins></b><br> ####
 
 ##### <b>Data Cleaning and Analysis</b><br> #####
-Pandas will be used to clean and prepare our data for analysis. All members of the group are familiar with Pandas so this came as an easy decision and should allow the analysis to run smoothly.<br>
+* Pandas will be used to clean and prepare our data for analysis. All members of the group are familiar with Pandas so this came as an easy decision and should allow the analysis to run smoothly.<br>
 ##### <b>Database Storage</b><br> #####
-PostgresSQL will be used for database storage. We will also be using a Flask template to display the data. Again, this decision was made due to familiarity.<br>
+* PostgresSQL will be used for database storage. We will also be using a Flask template to display the data. Again, this decision was made due to familiarity.<br>
 ##### <b>Machine Learning</b><br> #####
-For the machine learning portion, we have chosen to use a SciKitLearn Random Forest model. This was chosen due to a high degree of accuracy, the reduced chance of overfitting using this model as well as the need to use a supervised model.<br>
+* For the machine learning portion, we have chosen to use a SciKitLearn Random Forest model. This was chosen due to a high degree of accuracy, the reduced chance of overfitting using this model as well as the need to use a supervised model.<br>
 ##### <b>Dashboard</b><br> #####
-For our dashboard, we plan on using Python 3 along with a Flask template which will then be hosted on Google Cloud Console.<br><br>
+* For our dashboard, we plan on using Python 3 along with a Flask template which will then be hosted on Google Cloud Console.<br><br>
 
 
 
