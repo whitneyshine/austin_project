@@ -95,7 +95,7 @@ Please see [MLModel_flowchart](https://github.com/whitneyshine/austin_project/bl
 
 ## Database<br><br>
 
-Our dataset contains information on the type of wine, country, region, and winery where it was created as well as the price per bottle, wine rating, and a description about the wine.  The original data was created by [Wine Enthusiast](https://www.winemag.com/ratings/?utm_source=wineenthusiast.com&utm_medium=affiliate&utm_content=topnav).  The [Wine Dataset](https://www.kaggle.com/zynicide/wine-reviews) was found on Kaggle.<br><br>
+Our dataset contains information on the type of wine, country, region, and winery where it was created as well as the price per bottle, wine rating, and a description about the wine.  The original data was created by [Wine Enthusiast](https://www.winemag.com/ratings/?utm_source=wineenthusiast.com&utm_medium=affiliate&utm_content=topnav) and the [Wine Dataset](https://www.kaggle.com/zynicide/wine-reviews) was found on Kaggle.<br><br>
 <div align="center">
   
 ![wine_database](wine_database.png)
