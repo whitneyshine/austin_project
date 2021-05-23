@@ -12,6 +12,11 @@
 ## Table of Contents
 * [Presentation](#Presentation)<br>
     * [Predictive Wine Ratings](#Predictive-Wine-Ratings)<br>
+    * [Technologies Used](#Technologies-Used)<br>
+          *  [Data Cleaning and Analysis](#Data-Cleaning-And-Analysis)<br>
+          *  [Database Storage](#Database-Storage)<br>
+          *  [Machine Learning](#Machine-Learning)<br>
+          *  [Dashboard](#Dashboard)<br>
 * [GitHub](#GitHub)<br>
     * [Communication Protocols](#Communication-Protocols)<br>
 * [Machine Learning Model](#Machine-Learning-Model)<br>
@@ -32,6 +37,18 @@ For this repository we have created a machine learning model that can predict th
   ![wine_row](wine_row.png)
   
 </div>
+
+#### <ins><b>Technologies Used</ins></b><br> ####
+
+##### <ins><b>Data Cleaning and Analysis</ins></b><br> #####
+Pandas will be used to clean and prepare our data for analysis. All members of the group are familiar with Pandas so this came as an easy decision and should allow the analysis to run smoothly.<br>
+##### <ins><b>Database Storage</ins></b><br> #####
+PostgresSQL will be used for database storage. We will also be using a Flask template to display the data. Again, this decision was made due to familiarity.<br>
+##### <ins><b>Machine Learning</ins></b><br> #####
+For the machine learning portion, we have chosen to use a SciKitLearn Random Forest model. This was chosen due to a high degree of accuracy, the reduced chance of overfitting using this model as well as the need to use a supervised model.<br>
+##### <ins><b>Dashboard</ins></b><br> #####
+For our dashboard, we plan on using Python 3 along with a Flask template which will then be hosted on Google Cloud Console.<br><br>
+
 
 
 ## GitHub
