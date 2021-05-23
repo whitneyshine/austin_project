@@ -85,7 +85,7 @@ Our machine learning model's output label is a wine rating -- a continuous value
 #### <ins><b>Model Accuracy</ins></b><br> ####
 Let's face it -- no one will die if they drink a glass of wine that is rated inaccurately. If our model predicts some vintages to rate below their actual rating, it will be unfortunate. The consumer may notice and be unhappy. However, it's possible that the consumer will not notice and drink the wine anyway.<br><br> 
 #### <ins><b>How the model works</ins></b><br> ####
-Please see [MLModel_flowchart](https://github.com/whitneyshine/austin_project/blob/main/MLModel_flowchart.png) for a flowchart of the process for our [machine learning model](https://github.com/whitneyshine/austin_project/blob/main/MLModel.ipynb).  For now, the csv file (which is our provisional database) is being read in to our Python File.  Later in our project, we intend to connect to our SQL Database. <br><br>
+Please see [MLModel_flowchart](https://github.com/whitneyshine/austin_project/blob/main/MLModel_flowchart.png) for a flowchart of the process for our [machine learning model](https://github.com/whitneyshine/austin_project/blob/main/MLModel.ipynb).  For now, the [csv file](https://github.com/whitneyshine/austin_project/main/winemag-data.csv) (which is our provisional database) is being read in to our Python File.  Later in our project, we intend to connect to our SQL Database. <br><br>
 <div align="center">
   
 ![wine_cellar](wine_cellar.png)<br><br>
