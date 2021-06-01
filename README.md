@@ -35,7 +35,7 @@ For this repository we have created a machine learning model that can predict th
 
 <div align="center">
   
-  ![wine_row](wine_row.png)
+  ![wine_row](Images/wine_row.png)
   
 </div>
 
@@ -56,7 +56,7 @@ For this repository we have created a machine learning model that can predict th
 #### <ins><b>Communication Protocols</ins></b><br><br> ####
 <div align="center">
   
-![communication_apps](communication_apps.png)
+![communication_apps](Images/communication_apps.png)
 
  </div>
 
@@ -69,7 +69,7 @@ For our group communication protocols, we will be using the following modes of c
 * Email<br><br>
 <div align="center">
   
-![wine_communication](wine_communication.png)
+![wine_communication](Images/wine_communication.png)
 
 </div>
 
@@ -88,7 +88,7 @@ Let's face it -- no one will die if they drink a glass of wine that is rated ina
 Please see [MLModel_flowchart](https://github.com/whitneyshine/austin_project/blob/main/MLModel_flowchart.png) for a flowchart of the process for our [machine learning model](https://github.com/whitneyshine/austin_project/blob/main/MLModel.ipynb).  For now, the [csv file](https://github.com/whitneyshine/austin_project/blob/main/winemag-data.csv) (which is our provisional database) is being read in to our Python File.  Later in our project, we intend to connect to our SQL Database. <br><br>
 <div align="center">
   
-![wine_cellar](wine_cellar.png)<br><br>
+![wine_cellar](Images/wine_cellar.png)<br><br>
 
 </div>
 
@@ -101,7 +101,7 @@ Our dataset contains information on the type of wine, country, region, and winer
 <br><br>
 <div align="center">
   
-![wine_database](wine_database.png)
+![wine_database](Images/wine_database.png)
 
 </div>
 
