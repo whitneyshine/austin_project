@@ -1,6 +1,6 @@
 <div align="center">
   
-  # ![wine_ut](wine_ut.png)<br><br> 
+  # ![wine_ut](Images/wine_ut.png)<br><br> 
   
 </div>
 <div align="center">
