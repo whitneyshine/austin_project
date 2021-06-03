@@ -37,6 +37,8 @@ SELECT wine_no, country, province, region_1, region_2
 INTO region
 FROM winemag_data
 
+
+--Create new table
 SELECT 
 		producer.wine_no,
 		region.country,
