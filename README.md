@@ -93,6 +93,7 @@ Our initial dataset was fairly robust with lots of data but offered a limited nu
 * We replaced null values in the region_1 column with province name and in the taster_name column with unknowns
 * In our final transformation, we dropped the description and designation columns since they presented computational challenges for our machine learning model and dropped the region_2 and taster_twitter_handle columns because they didn’t add value to our model or dashboard.
 <br>
+
 Please see [Wine_Ratings.ipynb](https://github.com/whitneyshine/austin_project/blob/main/Wine_Ratings.ipynb) for the code that transformed our dataset.
 <br><br>
 
