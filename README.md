@@ -104,3 +104,4 @@ Our dataset contains information on the type of wine, country, region, and winer
 ![wine_database](Images/wine_database.png)
 
 </div>
+
