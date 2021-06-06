@@ -94,7 +94,8 @@ Our initial dataset was fairly robust with lots of data but offered a limited nu
 * In our final transformation, we dropped the description and designation columns since they presented computational challenges for our machine learning model and dropped the region_2 and taster_twitter_handle columns because they didn’t add value to our model or dashboard.
 <br>
 Please see [Wine_Ratings.ipynb](https://github.com/whitneyshine/austin_project/blob/main/Wine_Ratings.ipynb) for the code that transformed our dataset.
-<br><br> 
+<br><br>
+
 #### <ins><b>How the model works</ins></b><br> ####
 Please see [MLModel_flowchart](https://github.com/whitneyshine/austin_project/blob/main/MLModel_flowchart.png) for a flowchart of the process for our [machine learning model](https://github.com/whitneyshine/austin_project/blob/main/MLModel.ipynb).  The model first connects to a SQL database to read the dataset into a pandas dataframe. Then the data is cleaned of any unneeded columns (such as taster twitter handle) as well as columns with a large amount of unique values (such as the title column) that will cause the model to break. Once the data is ready, the categorical columns are split into binary data using scitkit-learn’s One Hot Encoder. This tool creates a new column for each unique value in the previous columns which can make the dataset quite larger than before. The data is this split using scikit-learn’s Train Test Split method into 75% training data and 25% testing data. Finally, the model can be fit to the data. This is the most time consuming part of the process. At 100 estimators the model took about an hour to fit to the data. <br><br>
 <div align="center">
