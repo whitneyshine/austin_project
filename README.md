@@ -32,7 +32,7 @@
 ## Presentation
 
 #### <ins><b>Predictive Wine Ratings</ins></b><br> ####
-For this repository we have created a machine learning model that can predict the rating of wine based on various inputs such as price, origin, and variety. This topic was selected because it offers descriptive features that the model can learn from and was also interesting to us as a team of wine enthusiasts. This data set was posted on Kaggle and compiled by Wine Magazine. We hope to be able to plug variables into the model and have it output a predicted rating of a given wine. For a more in depth look at our presentation please see the [Vine & Vault]( https://docs.google.com/presentation/d/1Y30czQ6kugodLCrJLLdQ3cycAYm2OTq6B37aSAKsT3E/edit?usp=sharing) google slides.<br><br>
+For this repository we chose to explore data from Wine Magazine to determine if we can recommend a bottle of wine for a novice wine drinker based on such things as price, rating, variety, region and year.  We selected this topic because we're a group of wine enthusiasts but we're certainly no sommeliers. Since wine can be complicated and overwhelming, we wanted to create a fun and interactive way for novice wine drinkers to discover new wines. We hope to be able to plug variables into our machine learning model and have it output a predicted rating of a given wine. Our dataset was posted on Kaggle and compiled by Wine Magazine. For a more in depth look at our presentation please see the [Vine & Vault]( https://docs.google.com/presentation/d/1Y30czQ6kugodLCrJLLdQ3cycAYm2OTq6B37aSAKsT3E/edit?usp=sharing) google slides.<br><br>
 
 <div align="center">
   
