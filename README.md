@@ -111,7 +111,7 @@ Please see [MLModel_flowchart](https://github.com/whitneyshine/austin_project/bl
 ## Database<br><br>
 
 #### <ins><b>Dataset</ins></b><br> ####
-Our dataset contains information on the type of wine, country, region, and winery where it was created as well as the price per bottle, wine rating, and a description about the wine.  The original data was created by [Wine Enthusiast](https://www.winemag.com/ratings/?utm_source=wineenthusiast.com&utm_medium=affiliate&utm_content=topnav) and the [Wine Dataset](https://www.kaggle.com/zynicide/wine-reviews) was found on Kaggle.  As a Team for this Project, we will be using a SQL database - please see our [Entity Relationship Diagram (ERD)](https://github.com/whitneyshine/austin_project/blob/main/QuickDBD-Winemag_data.png) with relationships.
+Our dataset contains information on the type of wine, country, region, and winery where it was created as well as the price per bottle, wine rating, and a description about the wine.  The original data was created by [Wine Enthusiast](https://www.winemag.com/ratings/?utm_source=wineenthusiast.com&utm_medium=affiliate&utm_content=topnav) and the [Wine Dataset](https://www.kaggle.com/zynicide/wine-reviews) was found on Kaggle.  As a Team for this Project, we used a SQL database - please see our [Entity Relationship Diagram (ERD)](https://github.com/whitneyshine/austin_project/blob/main/QuickDBD-Winemag_data.png) with relationships.
 <br><br>
 <div align="center">
   
