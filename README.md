@@ -24,7 +24,7 @@
     * [Machine Learning Model](#Machine-Learning-Model)<br>
     * [Output Label](#Output-Label)<br>
     * [Model Accuracy](#Model-Accuracy)<br>
-    * [Data Prepocessing](#Data-Preprocessing)<br>
+    * [Data Preprocessing](#Data-Preprocessing)<br>
     * [How the model works](#How-the-model-works)<br>
 * [Database](#Database)
     * [Dataset](#Dataset)<br>
