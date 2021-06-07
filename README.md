@@ -50,7 +50,7 @@ For this repository we have created a machine learning model that can predict th
   For the machine learning portion, we chose to use a SciKitLearn Random Forest model due to the algorithm's high degree of accuracy, the reduced chance of overfitting, and the need to use a supervised model.<br>
 * ##### <b>Dashboard</b><br> #####
   We built our dashboard using [Tableau](https://public.tableau.com/app/profile/eileen7390/viz/VineVault/Dashboard2)
- and will later integrate it with a Flask template and host on Google App Engine for a complete and polished location to access and view all the elements of our final project.<br><br>
+ and will later integrate it with a Flask template and host on Google App Engine for a complete and polished location to access and view all the elements of our final project.Inteact with the Dashboard by selecting a desired country from our dropdown feature or maybe you are looking for a specific price point - we have that covered in a slide scale in the upper left-hand corner. <br><br>
 
 
 
