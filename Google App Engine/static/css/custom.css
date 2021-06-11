@@ -1,0 +1,21 @@
+
+/**
+ * Padding for the body (to accomodate the fixed nav-bar).
+ */
+body {
+  padding-top: 5rem;
+}
+
+/**
+ * Responsive Text (apparently I'm on my own here)
+ * https://v4-alpha.getbootstrap.com/content/typography/#responsive-typography
+ */
+p {
+  font-size: 1.2em;
+}
+
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
