@@ -17,8 +17,6 @@
           *  [Database Storage](#Database-Storage)<br>
           *  [Machine Learning](#Machine-Learning)<br>
           *  [Dashboard](#Dashboard)<br>
-* [GitHub](#GitHub)<br>
-    * [Communication Protocols](#Communication-Protocols)<br>
 * [Machine Learning Model](#Machine-Learning-Model)<br>
     * [Question we would like to answer with our machine learning model](#Question-we-would-like-to-answer-with-our-machine-learning-model)<br>
     * [Machine Learning Model](#Machine-Learning-Model)<br>
@@ -52,13 +50,6 @@ For this repository we chose to explore data from Wine Magazine to determine if 
   We built our dashboard using Tableau to build our [Tableau Dashboard](https://public.tableau.com/app/profile/whitney.shine/viz/VineVault-Final/Dashboard2) and [Tableau Story](https://public.tableau.com/app/profile/whitney.shine/viz/TheVineVaultStory/VineVaultStory)
  and will later integrate it with a Flask template and host on Google App Engine for a complete and polished location to access and view all the elements of our final project.  Interact with the Dashboard by selecting a desired country from our dropdown feature or maybe you are looking for a specific price point - we have that covered in a slide scale in the upper left-hand corner. <br><br>
 
-
-
-## GitHub
-#### <ins><b>Communication Protocols</ins></b><br><br> ####
-<div align="center">
-  
-![communication_apps](Images/communication_apps.png)
 
  </div>
 
