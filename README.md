@@ -52,7 +52,7 @@ For this repository we chose to explore data from Wine Magazine to determine if 
 
 
  </div>
-
+<div align="center">
   
   ![wine_communication](Images/wine_communication.png)
 
