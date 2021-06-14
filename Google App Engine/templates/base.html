@@ -3,15 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="A fantastic website that will enlighten and delight.">
-    <meta name="author" content="Benjamin C. Pyrik">
-    <!--<link rel="icon" href="TODO">-->
-
-    <!-- Favicons (http://realfavicongenerator.net)
-    TODO -->
-
-    <!-- Open Graph
-    TODO -->
+    <meta name="description" content="Vine & Vault: UT Austin Data Analytics and Visualization Bootcamp Final Project">
+    <meta name="author" content="Christy Bell">
+    <link rel="icon" href="../static/images/favicon.PNG" sizes="16x16 32x32" type="image/png" />
 
     <title>Vine & Vault</title>
 
@@ -21,16 +15,17 @@
     <link rel="stylesheet" href="{{url_for('static', filename='css/custom.css')}}" />
   </head>
 
-  <!-- Jinja2 stuff related to generating nav and setting active state. Add more pages here! -->
-  {% set navigation_bar = [('/', 'home', 'Home'), ('/about', 'about', 'About')] -%}
+  <!-- Jinja2 stuff related to generating nav and setting active state. -->
+  {% set navigation_bar = [('/', 'summary', 'Project Summary'),  ('/dashboard', 'dashboard', 'Dashboard'), ('/team', 'team', 'Meet Our Team')] -%}
 
   {% set active_page = active_page|default('home') -%}
 
   <body>
+    <div class="text-white" style="background: #191414";></div>
 
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top" style="background-color: #a32e61;">
       <!-- Navbar branding. -->
-      <a class="navbar-brand" href="#">Vine & Vault</a>
+      <a class="navbar-brand text-white">VINE & VAULT</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>

@@ -4,6 +4,8 @@
  */
 body {
   padding-top: 5rem;
+  padding-bottom: 5rem;
+  background: #191414;  
 }
 
 /**
@@ -18,4 +20,8 @@ p {
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
+}
+
+.centered-iframe {
+  display:block;
 }

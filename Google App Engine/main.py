@@ -5,15 +5,17 @@ app = Flask(__name__)
 
 
 @app.route('/')
-@app.route('/home')
-def home():
-    return render_template('home.html')
+@app.route('/summary')
+def summary():
+    return render_template('summary.html')
 
+@app.route('/dashboard')
+def dashboard():
+    return render_template('dashboard.html')
 
-@app.route('/about')
-def about():
-    return render_template('about.html')
-
+@app.route('/team')
+def team():
+    return render_template('team.html')
 
 @app.errorhandler(404)
 def page_not_found(error):
