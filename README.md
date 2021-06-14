@@ -54,7 +54,7 @@ For this repository we chose to explore data from Wine Magazine to determine if 
  </div>
 
   
-![wine_communication](Images/wine_communication.png)
+  ![wine_communication](Images/wine_communication.png)
 
 </div>
 
