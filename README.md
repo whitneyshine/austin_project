@@ -53,14 +53,6 @@ For this repository we chose to explore data from Wine Magazine to determine if 
 
  </div>
 
-
-For our group communication protocols, we will be using the following modes of communication:<br>
-* Phone<br>
-* Text<br>
-* Zoom<br>
-* Slack<br>
-* Email<br><br>
-<div align="center">
   
 ![wine_communication](Images/wine_communication.png)
 
