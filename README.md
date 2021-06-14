@@ -17,6 +17,7 @@
           *  [Database Storage](#Database-Storage)<br>
           *  [Machine Learning](#Machine-Learning)<br>
           *  [Dashboard](#Dashboard)<br>
+          *  [Final Project Website](#Final-Project-Website)<br>
 * [Machine Learning Model](#Machine-Learning-Model)<br>
     * [Question we would like to answer with our machine learning model](#Question-we-would-like-to-answer-with-our-machine-learning-model)<br>
     * [Machine Learning Model](#Machine-Learning-Model)<br>
@@ -47,8 +48,9 @@ For this repository we chose to explore data from Wine Magazine to determine if 
 * ##### <b>Machine Learning</b><br> #####
   For the machine learning portion, we chose to use a SciKitLearn Random Forest model due to the algorithm's high degree of accuracy, the reduced chance of overfitting, and the need to use a supervised model.<br>
 * ##### <b>Dashboard</b><br> #####
-  We built our dashboard using Tableau to build our [Tableau Dashboard](https://public.tableau.com/app/profile/whitney.shine/viz/VineVault-Final/Dashboard2) and [Tableau Story](https://public.tableau.com/app/profile/whitney.shine/viz/TheVineVaultStory/VineVaultStory)
- and will later integrate it with a Flask template and host on Google App Engine for a complete and polished location to access and view all the elements of our final project.  Interact with the Dashboard by selecting a desired country from our dropdown feature or maybe you are looking for a specific price point - we have that covered in a slide scale in the upper left-hand corner. <br><br>
+  We used Tableau to build our [Dashboard](https://public.tableau.com/app/profile/whitney.shine/viz/VineVault-Final/Dashboard2) and [Story](https://public.tableau.com/app/profile/whitney.shine/viz/TheVineVaultStory/VineVaultStory). Interact with the dashboard by selecting a desired country from our dropdown feature or maybe you are looking for a specific price point - we have that covered in a slide scale in the upper left-hand corner.<br>
+* ##### <b>Final Project Website</b><br> #####  
+  We built a [website](https://wine-ratings.uc.r.appspot.com/) using Bootstrap v4.1, Flask v1.0.2 and Jinja2 and hosted on Google App Engine for a complete and polished location to access and view all the elements of our final project.  We even embedded our Tableau dashboard and Google Slides presentation.<br>
 
 
  </div>
