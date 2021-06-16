@@ -67,7 +67,7 @@ For this repository we chose to explore a Wine Reviews dataset compiled from Win
 ## Database<br><br>
 
 #### <ins><b>Dataset</ins></b><br> ####
-Our raw dataset contained almost 130,000 rows of information that included the wine's title, grape variety, winery, country and region of origin, as well as the price per bottle, wine rating, taster name, and a description about the wine.  The original data was created by [Wine Enthusiast](https://www.winemag.com/ratings/?utm_source=wineenthusiast.com&utm_medium=affiliate&utm_content=topnav) and the [Wine Reviews dataset](https://www.kaggle.com/zynicide/wine-reviews) was posted on Kaggle.  As a team for this project, we used a SQL database - see our [Entity Relationship Diagram (ERD)](https://github.com/whitneyshine/austin_project/tree/main/Images/QuickDBD-Winemag_data.png) with relationships. After we finished cleaning and transforming the data, our final [dataset] (https://github.com/whitneyshine/austin_project/tree/main/Resources/clean_wine_data.csv) contains almost 115,000 rows and 12 columns.<br><br>
+Our raw dataset contained almost 130,000 rows of information that included the wine's title, grape variety, winery, country and region of origin, as well as the price per bottle, wine rating, taster name, and a description about the wine.  The original data was created by [Wine Enthusiast](https://www.winemag.com/ratings/?utm_source=wineenthusiast.com&utm_medium=affiliate&utm_content=topnav) and the [Wine Reviews dataset](https://www.kaggle.com/zynicide/wine-reviews) was posted on Kaggle.  As a team for this project, we used a SQL database - see our [Entity Relationship Diagram (ERD)](https://github.com/whitneyshine/austin_project/tree/main/Images/QuickDBD-Winemag_data.png) with relationships. After we finished cleaning and transforming the data, our final [dataset] (https://github.com/whitneyshine/austin_project/tree/main/Resources/clean_wine_data.csv) contained almost 115,000 rows and 12 columns.<br><br>
 
 <div align="center">
   
@@ -87,8 +87,8 @@ Our machine learning model's output label is a wine rating -- a continuous value
 Our initial dataset was fairly robust with lots of data (almost 130,000 rows and 13 columns) but offered a limited number of valuable features to analyze and explore. Therefore, we engineered the following features: 
 * We extracted the year the wine was made by searching the title column for a regular expression then added it as an extra feature to our dataset, focusing on wines made starting in 2000 since this made up most of our dataset.
 * We used dictionary keys to look in the description, variety and title columns and assigned a red or white designation. We added this feature as an additional column called wine type.
-* We added a column to group ratings into 5 categories -- below average, average, good, very good and excellent. The idea was we could use these categories to add context and value to our consumer-friendly dashboard. However, we did not use this feature to train our machine learning model since it was derived from the feature we were trying to predict.<br>
-To clean and transform our dataset further:
+* We added a column to group ratings into 5 categories -- below average, average, good, very good and excellent. The idea was we could use these categories to add context and value to our consumer-friendly dashboard. However, we did not use this feature to train our machine learning model since it was derived from the feature we were trying to predict.<br><br>
+To clean and transform our dataset further:<br>
 * We replaced null values in the region_1 column with province name and in the taster_name column with "unknown"
 * We reluctantly dropped the description, designation, title and winery columns since they presented computational challenges for our machine learning model
 * We dropped the region_2 and taster_twitter_handle columns since they didn’t add value to our model or dashboard.<br><br>
@@ -106,7 +106,7 @@ When we trained the model to predict wine ratings, it scored a coefficient of de
 ## Looking Ahead
 
 #### <ins><b>What are some possible improvements we could make?</ins></b><br> ####
-If we had a very large amount of computing power (over 100GB RAM) then we could go back and include the title and winery columns to improve our model's results. Also, all features other than price proved to be weak learners. Clearly there are other factors not contained in our dataset that have a huge impact on the rating of a wine, such as climate and weather data for instance. Given more time, we could bring in additional features like these to add to our dataset and improve our model. Finally, we had a few outliers in our datset that we should consider addressing.<br><br>
+If we had a very large amount of computing power (over 100GB RAM) then we could go back and include the title and winery columns to improve our model's results. Also, all features other than price proved to be weak learners. Clearly there are other factors not contained in our dataset that have a huge impact on the rating of a wine, such as climate and weather data for instance. Given more time, we could bring in additional features like these and improve our model. Finally, we had a few outliers in our datset that we should consider addressing.<br><br>
 #### <ins><b>Ideas for further development</ins></b><br> ####
 Ideally, natural language processing techniques would be used to predict score based on text found in the description column. This was simply out of reach for us given our skill sets and time constraints.<br><br>
 
